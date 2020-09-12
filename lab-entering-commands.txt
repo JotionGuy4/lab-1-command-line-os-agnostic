@@ -168,3 +168,5 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+
+Command is ls, flag is -a, and prompt a $
