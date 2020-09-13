@@ -17,7 +17,8 @@ $ ls<ENTER>
 Copy and paste the output of ls below.
 ----------
 
-Desktop  Documents  Downloads  Movies  Music  Pictures  folder1  folder2  newfile.dxe  textfile.txt
+Desktop  Documents  Downloads  Movies  Music  Pictures  folder1  folder2  newfile.dxe  textfile.txt. 
+My thoughts:I'm theses are all the folder I've added on the Visual Studio Code
 
 ==========
 2a. Type: 
@@ -28,12 +29,14 @@ What happens?  Describe it below.
 ----------
 
 Desktop/   Documents/ Downloads/
+My thoughts: Holds all specific-data
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
 
 Desktop/   Documents/ Downloads/ 
+My thoughts: repeated. 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
@@ -60,6 +63,7 @@ Copy and paste the first *two lines* of output below.
 ----------
 
 .  ..
+My thoguhts: I'm getting theses triple dots in my screen. Did I made an error or does this suppose to happen like this?
 
 ==========
 5.  Type:
@@ -169,4 +173,4 @@ $ ls -a Desktop
 What is the command, flag, argument, and prompt?
 ----------
 
-Command is ls, flag is -a, and prompt a $
+My thoughts: Command is ls, flag is -a, and prompt a $
