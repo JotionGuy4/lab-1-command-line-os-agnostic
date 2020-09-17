@@ -15,9 +15,13 @@ Follow the instructions line-by-line.
 2. Create a directory called mtec1003.
 ----------
 
+Answer: home/jotionguy4/mtec1003
+
 ==========
 3. Change your directory so that you're in mtec1003.
 ----------
+
+Answer: home/jotionguy4/mtec1003
 
 ==========
 4. Type:
@@ -31,7 +35,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 Copy and paste the output of pwd below.
 ----------
 
-
+Answer: home/jotionguy4/mtec1003
 
 ==========
 5. Type:
@@ -42,7 +46,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+Answer: animals
 
 ==========
 6. Type:
@@ -53,7 +57,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+Answer: animals food
 
 ==========
 7. Type:
@@ -64,7 +68,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+Answer: animal foo food
 
 ==========
 8. Type:
@@ -75,7 +79,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+Answer: /home/jotionguy4/mtec1003/foo/bar/baz/qux
 
 ==========
 9. Type:
@@ -86,7 +90,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+Answer: /home/jotionguy4/mtec1003/foo/bar
 
 ==========
 10. Type:
@@ -97,7 +101,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+Answer: /home/jotionguy4/mtec1003/foo/bar/baz/qux
  
 ==========
 11. Type:
@@ -108,7 +112,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+Answer: /home/jotionguy4/mtec1003
 
 ==========
 12. Type:
@@ -120,7 +124,9 @@ $ ls -l
 Copy and paste the first two lines from the output into the space below.
 ----------
 
-
+Answer: 
+foo
+food
 
 ==========
 13. Type:
@@ -131,7 +137,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+Answer: /home/jotionguy4
 
 ==========
 14. Type:
@@ -142,7 +148,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+Answer: /mnt
 
 ==========
 15. Type:
@@ -153,7 +159,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/mnt
 
 ==========
 15. Type:
@@ -164,13 +170,13 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+Answer: /home/jotionguy4/mtec1003
 
 ==========
 16a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+Answer: pwd
 
 ==========
 16b. If you're not in the right directory, type the following command:
@@ -193,7 +199,7 @@ lemon
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
 
-
+home/jotionguy4/metc1003/
 
 ==========
 18. Make another directory called aardvark.  
@@ -201,6 +207,7 @@ Use only one command to make all of these new directories.  Write what command y
 Write the command you used to create the directory below:
 ----------
 
+Answer: mkdir -p pineapple/orange/strawbery/lemon
 
 
 ==========
@@ -209,7 +216,7 @@ Write the command you used to create the directory below:
 What is the modified date of the aardvark directory?
 ----------
 
-
+Answer: mkdir -p aardvark 
 
 ==========
 20. Make 3 directories nested within each other:
@@ -221,6 +228,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 ----------
 
+Answer: mkdir -p foo/bar/baz
 
 
 ==========
@@ -229,7 +237,7 @@ What command did you use?
 What command did you use?
 ----------
 
-
+Answer: cd 
 
 ==========
 22. Change your directory so that you're two directories up (foo)
@@ -237,43 +245,46 @@ What command did you use?
 What command did you use?
 ----------
 
+Asnwer: cd../..
 
 ==========
 23. What command is used to delete empty directories?
 ----------
 
-
+Answer: rmdir 
 
 ==========
 24. What command is used to print out your current working directory?
 ----------
 
-
+Answer: pwd and ls
 
 ==========
 25. What flag do I pass to ls to print out all files?
 ----------
 
-
+Answer: -l
 
 ==========
 26. What's the shortcut for home directory?
 ----------
 
-
+Answer: cd ~
 
 ==========
 27. What's a pathname?
 ----------
 
-
+Answer: location of the directory
 
 ==========
 28. What's a directory?
 ----------
 
-
+Answer: A folder constructed a filesystem
 
 ==========
 29. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+
+Answer: Location from root folder
